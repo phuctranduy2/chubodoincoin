@@ -2,8 +2,8 @@
   "ref": "7126637118",
   "skipErrorTasks": [2, 32, 34, 29, 15, 8, 6, 4, 82, 27, 33, 21, 20, 36, 80, 79, 41, 43, 39, 76, 24, 23, 77, 83, 90, 91, 93, 97, 98, 99, 104, 105, 106, 109, 108, 110, 112, 113, 107, 116],
   "durov": {
-    "day": "03-10-2024",
-    "answer": [15, 4, 9, 10]
+    "day": "07-10-2024",
+    "answer": [12, 3, 14, 5]
   },
   "tasks": [
     {
@@ -32,5 +32,5 @@
     }
   ],
   "ver": "v0.0.6",
-  "noti": "Chạy tool lỗi thì báo tao https://t.me/Bodoi_da"
+  "noti": "Con quỷ Major này đang bị chập chờn cái vụ đăng nhập lúc được lúc không nên nếu chạy mà bị lỗi 401, 403 thì thử chạy lại vài lần là hết lỗi nhé"
 }
