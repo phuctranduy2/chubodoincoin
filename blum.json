@@ -2,6 +2,28 @@
   "skipHandleTask": false,
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "KOMPtO0PWQ",
+  "payloadServer": [
+    {
+      "id": "vqzuejeiiemf1",
+      "status": 1
+    },
+    {
+      "id": "weajonqbsyvr2",
+      "status": 1
+    },
+    {
+      "id": "oraiuhooppds3",
+      "status": 1
+    },
+    {
+      "id": "mwmyjxhwhvkd4",
+      "status": 1
+    },
+    {
+      "id": "agujrczbhepn5",
+      "status": 1
+    }
+  ],
   "tasks": [
     {
       "id": "38f6dd88-57bd-4b42-8712-286a06dac0a0",
@@ -62,8 +84,24 @@
     {
       "id": "d2a972a1-12ab-4c7b-a411-da056609f2bd",
       "answer": "SOBLUM"
+    },
+    {
+      "id": "56d210c1-446b-473b-b7c4-cba856b4476c",
+      "answer": "BLUMEXPLORER"
+    },
+    {
+      "id": "25928ae7-c3c2-40ba-bb78-975ed68e4a5a",
+      "answer": "CRYPTOFAN"
+    },
+    {
+      "id": "dc627a62-f747-4cbb-981f-62cf82a85458",
+      "answer": "BLUMTASTIC"
     }
   ],
-  "ver": "v0.1.4",
-  "noti": "Game lâu lâu có một số acc bị lỗi nó nhả các task đã làm ra nên khi làm lại sẽ bị lỗi, đừng bất ngờ vì điều này, cứ kệ nó"
+  "tribeSkip": [
+    "b372af40-6e97-4782-b70d-4fc7ea435022",
+    "642e3141-5536-4d2f-9a5f-a62a35ede62c"
+  ],
+  "ver": "v0.1.6",
+  "noti": "Chơi game đã chạy mượt rồi nhé, nhớ xem hướng dẫn sử dụng để biết chỉnh khung giờ chơi game"
 }
