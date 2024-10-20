@@ -22,6 +22,26 @@
     {
       "id": "agujrczbhepn5",
       "status": 1
+    },
+    {
+      "id": "iqwuumqkuczb6",
+      "status": 1
+    },
+    {
+      "id": "zseniuazehyf7",
+      "status": 0
+    },
+    {
+      "id": "bmyrrpbvnlaa8",
+      "status": 1
+    },
+    {
+      "id": "hpwsqafwqdqr9",
+      "status": 1
+    },
+    {
+      "id": "enmobnpmpxkw10",
+      "status": 1
     }
   ],
   "tasks": [
@@ -102,6 +122,6 @@
     "b372af40-6e97-4782-b70d-4fc7ea435022",
     "642e3141-5536-4d2f-9a5f-a62a35ede62c"
   ],
-  "ver": "v0.1.6",
-  "noti": "Chơi game đã chạy mượt rồi nhé, nhớ xem hướng dẫn sử dụng để biết chỉnh khung giờ chơi game"
+  "ver": "v0.1.7",
+  "noti": "Với tình hình nhiều bên spam request lên server để lấy payload chơi game dẫn đến các server sẽ sớm quá tải vào đêm nay (18/10) vậy nên khuyên mọi người không nên chạy chơi game bắt đầu từ khuya đêm nay để tránh lỗi mất vé\nSắp tới bắt buộc phải có API KEY để có thể request lên server lấy payload chơi game để tránh các trại và các bên khác spam. Mọi người chơi ít thì yên tâm là sẽ vẫn cấp API KEY free cho mọi người, còn chơi lớn thì nạp xèng vào mà mua nhé, bú free thế đủ rồi."
 }
