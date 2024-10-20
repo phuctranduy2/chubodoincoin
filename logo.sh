@@ -9,7 +9,7 @@ ENDCOLOR="\e[0m"
 
 echo -e "\e[1;31m
 ◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
-  Join Telegram: https://t.me/hiddengemnews
+  Join Telegram: https://t.me/zero2hero100x
    Follow  channel zero2hero | chuyên tool
 ◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
       
